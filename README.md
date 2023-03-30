@@ -32,3 +32,18 @@
 
 </div>
 </details>
+
+<details>
+<summary>3주차 문제풀이</summary>
+<div markdown="1">
+
+- [자물쇠와 열쇠 :scream:](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/2%EC%A3%BC%EC%B0%A8_%EA%B5%AC%ED%98%84/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80_%EC%97%B4%EC%87%A0.py)
+- [뱀](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/2%EC%A3%BC%EC%B0%A8_%EA%B5%AC%ED%98%84/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B1%80.py)
+- [기둥과 보 설치](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/2%EC%A3%BC%EC%B0%A8_%EA%B5%AC%ED%98%84/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EA%B8%B0%EB%91%A5%EA%B3%BC_%EB%B3%B4_%EC%84%A4%EC%B9%98.py)
+- [치킨 배달](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/2%EC%A3%BC%EC%B0%A8_%EA%B5%AC%ED%98%84/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EC%B9%98%ED%82%A8_%EB%B0%B0%EB%8B%AC.py)
+- [외벽 점검 :scream:] <b>조금 더 성찰 해보겠습니다.. 자꾸 오답이 나와서요!!</b>
+- [음료수 얼려먹기](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/3%EC%A3%BC%EC%B0%A8_DFS%26BFS/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4_%EB%A8%B9%EA%B8%B0.py)
+- [미로 탈출](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/3%EC%A3%BC%EC%B0%A8_DFS%26BFS/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.py)
+
+</div>
+</details>
