@@ -12,9 +12,11 @@ dy=[1,-1,0,0]
 
 def bfs():
     queue=deque()
+    #깊은 복사로 lab 리스트 복사하
     clab=copy.deepcopy(lab)
     for i in range(n):
         for j in range(m):
+            #바이러스 큐에 넣기
             if clab[i][j]==2:
                 queue.append((i,j))
 
@@ -24,12 +26,14 @@ def bfs():
             nx=x+dx[i]
             ny=y+dy[i]
             if nx>=0 and nx<n and ny>=0 and ny<m:
+                #바이러스 감염시키고 큐에 넣
                 if clab[nx][ny]==0:
                     clab[nx][ny]=2
                     queue.append((nx,ny))
 
     global res
     cnt=0
+    #안전영역 개수 세기
     for i in range(n):
         cnt+=clab[i].count(0)
         
@@ -41,6 +45,7 @@ def makeWall(cnt):
         return
     for i in range(n):
         for j in range(m):
+            #백트래킹으로 모든 곳에 벽 세개 두
             if lab[i][j]==0:
                 lab[i][j]=1
                 makeWall(cnt+1)
