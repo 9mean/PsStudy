@@ -62,3 +62,15 @@
 
 </div>
 </details>
+
+<details>
+<summary>5주차 문제풀이</summary>
+<div markdown="1">
+
+- [블록 이동하기](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/3%EC%A3%BC%EC%B0%A8_DFS%26BFS/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%B8%94%EB%A1%9D_%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py)
+- [위에서 아래로](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/4%EC%A3%BC%EC%B0%A8_%EC%A0%95%EB%A0%AC/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EC%9C%84%EC%97%90%EC%84%9C_%EC%95%84%EB%9E%98%EB%A1%9C.py)
+- [성적이 낮은 순서로 학생 출력하기](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/4%EC%A3%BC%EC%B0%A8_%EC%A0%95%EB%A0%AC/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EC%84%B1%EC%A0%81%EC%9D%B4_%EB%82%AE%EC%9D%80_%EC%88%9C%EC%84%9C%EB%A1%9C_%ED%95%99%EC%83%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
+- [두 배열의 원소 교체](https://github.com/hgene0929/algo/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/4%EC%A3%BC%EC%B0%A8_%EC%A0%95%EB%A0%AC/02_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/%EB%91%90_%EB%B0%B0%EC%97%B4%EC%9D%98_%EC%9B%90%EC%86%8C_%EA%B5%90%EC%B2%B4.py)
+
+</div>
+</details>
