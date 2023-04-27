@@ -10,7 +10,7 @@ def dfs(pos,res,plus,minus,multiply,divide):
         maxRes=max(res,maxRes)
         minRes=min(res,minRes)
         return 
-    #각 연산자의 개수가 떨어질때까지 dfs 돌려버리
+    #각 연산자의 개수가 떨어질때까지 dfs 돌려버리기
     if plus:
         dfs(pos+1,res+a[pos],plus-1,minus,multiply,divide)
     if minus:
